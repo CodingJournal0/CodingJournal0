@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thehadinaseer.github.io/hadi/](https://thehadinaseer.github.io/hadi/)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development** 
 
 - 📫 How to reach me **hadinaseer066@gmail.com**
 
